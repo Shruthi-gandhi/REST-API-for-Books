@@ -26,4 +26,4 @@ npm start
 Books are stored in memory and reset when the server restarts.
 
 ---
-Happy coding! 🎉
+
